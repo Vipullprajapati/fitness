@@ -43,18 +43,17 @@ export default function About() {
                 <span className="text-orange-600">Fitsensefitnesshub</span>
               </h2>
               <p className="mt-6 text-lg text-gray-600">
-                Founded in 2015, Titan Fitness was born from a passion for
-                transforming lives through fitness. What started as a single
-                location has grown into a premier fitness destination with
-                state-of-the-art facilities and a community of over 10,000
-                members.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Laboriosam magnam commodi reprehenderit in totam laudantium. Est
+                dolor doloremque adipisci. Perspiciatis et debitis laboriosam,
+                iste in accusantium exercitationem temporibus. Temporibus,
+                obcaecati.
               </p>
               <p className="mt-4 text-lg text-gray-600">
-                Our mission is simple: to provide an inclusive, motivating
-                environment where everyone - from beginners to elite athletes -
-                can achieve their fitness goals. We combine cutting-edge
-                equipment with expert coaching to deliver results you can see
-                and feel.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Sapiente minus id dolore ratione, perferendis placeat iusto.
+                Facilis laudantium mollitia consequatur velit fugit nesciunt
+                eveniet maxime accusantium porro modi, nam iure.
               </p>
               <div className="mt-8 grid grid-cols-2 gap-4">
                 {[
