@@ -33,14 +33,14 @@ export default function About() {
             <div className="md:w-1/2">
               <img
                 src={gymheadingimg}
-                alt="Titan Fitness gym"
+                alt="Fitsensefitnesshub"
                 className="w-full h-auto rounded-xl shadow-xl"
               />
             </div>
             <div className="md:w-1/2">
               <h2 className="text-3xl font-extrabold text-gray-900 sm:text-4xl">
                 Welcome to{" "}
-                <span className="text-orange-600">Titan Fitness</span>
+                <span className="text-orange-600">Fitsensefitnesshub</span>
               </h2>
               <p className="mt-6 text-lg text-gray-600">
                 Founded in 2015, Titan Fitness was born from a passion for
