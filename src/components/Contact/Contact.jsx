@@ -53,7 +53,7 @@ export default function Contact() {
                       Our Location
                     </h3>
                     <p className="mt-1 text-gray-600">
-                      123 Fitness Avenue
+                      Fitsensefitnesshub
                       <br />
                       Kalwa , Thane - 400605 
                     </p>
