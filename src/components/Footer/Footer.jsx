@@ -25,7 +25,7 @@ export default function Footer() {
                 alt="Titan Fitness Logo"
               />
               <span className="text-xl font-bold text-gray-800">
-                Titan Fitness
+                Fitsensefitnesshub
               </span>
             </Link>
             <p className="text-gray-600 text-sm">
@@ -43,7 +43,7 @@ export default function Footer() {
                 <FaTwitter className="h-5 w-5" />
               </a>
               <a
-                href="https://github.com/Vishallokhande8788"
+                href="https://github.com/vipullprajapati"
                 className="text-gray-500 hover:text-orange-600"
               >
                 <FaGithub className="h-5 w-5" />
@@ -168,8 +168,8 @@ export default function Footer() {
               <h4 className="text-sm font-semibold text-gray-900 mb-2">
                 Contact Us
               </h4>
-              <p className="text-gray-600 text-sm">info@titanfitness.com</p>
-              <p className="text-gray-600 text-sm">+91-9370088100</p>
+              <p className="text-gray-600 text-sm">xyz@gmail.com</p>
+              <p className="text-gray-600 text-sm">+91-00000000000</p>
             </div>
           </div>
         </div>
@@ -177,7 +177,7 @@ export default function Footer() {
         {/* Copyright Section */}
         <div className="mt-12 pt-8 border-t border-gray-200 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-500 text-sm text-center md:text-left">
-            © {currentYear} Titan Fitness. All rights reserved.
+            © {currentYear} vipul prajapati. All rights reserved.
           </p>
           <div className="mt-4 md:mt-0 flex space-x-6">
             <Link
