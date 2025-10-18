@@ -55,7 +55,7 @@ export default function Contact() {
                     <p className="mt-1 text-gray-600">
                       123 Fitness Avenue
                       <br />
-                      Kalyan , Thane - 110010 
+                      Kalwa , Thane - 400605 
                     </p>
                   </div>
                 </div>
@@ -67,9 +67,9 @@ export default function Contact() {
                   <div className="ml-4">
                     <h3 className="text-lg font-medium text-gray-900">Phone</h3>
                     <p className="mt-1 text-gray-600">
-                      Main: +91-9370088100
+                      Main: +91-8454972454
                       <br />
-                      Support: (0251) 555-5678
+                      Support: (xxxx) 00000000
                     </p>
                   </div>
                 </div>
@@ -81,9 +81,9 @@ export default function Contact() {
                   <div className="ml-4">
                     <h3 className="text-lg font-medium text-gray-900">Email</h3>
                     <p className="mt-1 text-gray-600">
-                      info@titanfitness.com
+                      vipul email id
                       <br />
-                      support@titanfitness.com
+                      vipul website id
                     </p>
                   </div>
                 </div>
@@ -95,9 +95,9 @@ export default function Contact() {
                   <div className="ml-4">
                     <h3 className="text-lg font-medium text-gray-900">Hours</h3>
                     <p className="mt-1 text-gray-600">
-                      Monday-Friday: 5am - 11pm
+                      Monday-Saturday: 5am - 11pm
                       <br />
-                      Saturday-Sunday: 7am - 9pm
+                      Sunday: Yoga day
                     </p>
                   </div>
                 </div>
@@ -229,7 +229,7 @@ export default function Contact() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="rounded-xl overflow-hidden shadow-xl">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3767.1234567890123!2d73.12345678901234!3d19.123456789012345!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTnCsDA3JzI0LjQiTiA3M8KwMDcnNDEuNiJF!5e0!3m2!1sen!2sin!4v1234567890123!5m2!1sen!2sin"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1921.3602237153664!2d73.0038380349561!3d19.19209965622926!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7bf000af46b77%3A0xd7e20cde809bc9e!2sFitsense%20Fitness%20Hub!5e0!3m2!1sen!2sin!4v1760753155203!5m2!1sen!2sin"
               width="100%"
               height="450"
               style={{ border: 0 }}
