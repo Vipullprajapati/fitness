@@ -12,12 +12,12 @@ export default function Header() {
           {/* Logo/Brand */}
           <Link to="/" className="flex items-center space-x-3">
             <img
-              src="https://assets.cdn.filesafe.space/tQPUc30JRr6uDkpnT9UJ/media/630df3964fde62f86a72d62d.jpeg"
+              src="public/gym icon.png"
               className="h-10 sm:h-12"
               alt="Logo"
             />
             <span className="self-center text-xl font-semibold whitespace-nowrap text-gray-800">
-              Titan Fitness
+              Fitsensefitnesshub
             </span>
           </Link>
 
