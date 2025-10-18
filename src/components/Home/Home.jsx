@@ -28,7 +28,7 @@ export default function Home() {
         <div className="relative max-w-7xl mx-auto px-4 py-24 sm:px-6 lg:px-8">
           <div className="max-w-xl sm:mt-1 space-y-8">
             <h1 className="text-5xl font-extrabold tracking-tight sm:text-6xl">
-              Titan <span className="text-orange-500">Fitness</span>
+              <span className="text-orange-500">Fitsensefitnesshub</span>
             </h1>
             <p className="text-xl text-gray-300">
               High-performance training facility with cutting-edge equipment and
@@ -41,12 +41,12 @@ export default function Home() {
               >
                 Join Now
               </Link>
-              <Link
+              {/* <Link
                 to="/tour"
                 className="inline-flex items-center px-6 py-3 font-medium bg-white text-gray-900 rounded-lg hover:bg-gray-200 transition-colors"
               >
                 Book a Tour
-              </Link>
+              </Link> */}
             </div>
           </div>
         </div>
@@ -57,7 +57,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <h2 className="text-3xl font-extrabold text-gray-900 sm:text-4xl">
-              Why Choose Titan Fitness
+              Why Choose Fitsensefitnesshub
             </h2>
             <p className="mt-4 max-w-2xl text-xl text-gray-600 mx-auto">
               We're more than just a gym - we're a fitness community
@@ -267,7 +267,7 @@ export default function Home() {
             Ready to Transform Your Body?
           </h2>
           <p className="mt-4 max-w-2xl text-xl text-gray-300 mx-auto">
-            Join Titan Fitness today and get 1 week free trial
+            Join Fitsensefitnesshub today and get 1 week free trial
           </p>
           <div className="mt-8">
             <Link
