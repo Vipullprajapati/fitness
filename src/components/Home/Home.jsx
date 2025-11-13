@@ -35,8 +35,8 @@ export default function Home() {
               expert coaching to transform your body and mind.
             </p>
             <div className="flex flex-wrap gap-4">
-              <Link
-                to="/membership"
+              <Link 
+                to="/contact"
                 className="inline-flex items-center px-6 py-3 font-medium bg-orange-600 rounded-lg hover:bg-orange-700 transition-colors"
               >
                 Join Now
